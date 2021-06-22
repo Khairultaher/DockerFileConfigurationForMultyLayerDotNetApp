@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Kb9KgqEIqpka/wtfdZ1YLvTMO7nAkBdgIz5b9gWsHS6mp0T+ewx0IOxUEPUOYGKz6dIkTprmaAW8RvwW5nGvQ==",
+  "success": true,
+  "projectFilePath": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast\\weatherforecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
