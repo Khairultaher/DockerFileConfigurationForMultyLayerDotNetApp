@@ -4,6 +4,8 @@
 docker build -t weatherforecast-img .
 # with version
 docker build -t weatherforecast-img:v1 . 
+# with a name frefix
+docker build -f weatherforecast/Dockerfile -t weatherforecast-img:v1 .
 
 ## check available images
 docker images
@@ -18,4 +20,11 @@ docker run --name weatherforecast-con -p 39177:80 -p 44391:443 weatherforecast-i
 http://localhost:39177/weatherforecast
 https://localhost:44391/weatherforecast
 
+```
+
+### Run with Docker Compose
+```
+docker-compose -f .\docker-compose.yml -f .\docker-compose.override.yml up -d 
+# OR
+docker-compose -f .\docker-compose.yml -f .\docker-compose.override.yml up -d --scale app=5
 ```
