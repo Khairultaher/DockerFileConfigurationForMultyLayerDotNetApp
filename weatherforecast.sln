@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weatherforecast", "weatherforecast\weatherforecast.csproj", "{952385F5-A509-4F42-A1BF-3441F414E91A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B48A928D-D424-437C-8AA5-2CCEDD0CA3E3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{B48A928D-D424-437C-8AA5-2CCEDD0CA3E3}"
 	ProjectSection(SolutionItems) = preProject
-		weatherforecast\.dockerignore = weatherforecast\.dockerignore
+		.dockerignore = .dockerignore
+		.gitignore = .gitignore
+		Dockerfile = Dockerfile
 		readme.md = readme.md
 	EndProjectSection
 EndProject

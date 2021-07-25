@@ -5,7 +5,7 @@ services:
     image: weatherforecast-img:v2
     build:
       context: .
-      dockerfile: weatherforecast/Dockerfile
+      dockerfile: Dockerfile
     #deploy:
     #  mode: replicated
     #  replicas: 6

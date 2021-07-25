@@ -11,7 +11,7 @@ docker build -f weatherforecast/Dockerfile -t weatherforecast-img:v1 .
 docker images
 
 ## create and run container
-docker run -p 39177:80 -p 44391:443 weatherforecast-con
+docker run -p 39177:80 -p 44391:443 weatherforecast-img
 # with name & image named version
 docker run --name weatherforecast-con -p 39177:80 -p 44391:443 weatherforecast-img:v1
 # with name & image latest version

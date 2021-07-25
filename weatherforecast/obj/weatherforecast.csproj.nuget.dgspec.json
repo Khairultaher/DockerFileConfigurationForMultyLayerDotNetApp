@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast\\weatherforecast.csproj": {}
+    "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast\\weatherforecast.csproj": {}
   },
   "projects": {
-    "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj": {
+    "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj",
+        "projectUniqueName": "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj",
         "projectName": "weatherforecast.Infar.Common",
-        "projectPath": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj",
+        "projectPath": "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj",
         "packagesPath": "C:\\Users\\Khairul\\.nuget\\packages\\",
-        "outputPath": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast.Infar.Common\\obj\\",
+        "outputPath": "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast.Infar.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast\\weatherforecast.csproj": {
+    "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast\\weatherforecast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast\\weatherforecast.csproj",
+        "projectUniqueName": "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast\\weatherforecast.csproj",
         "projectName": "weatherforecast",
-        "projectPath": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast\\weatherforecast.csproj",
+        "projectPath": "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast\\weatherforecast.csproj",
         "packagesPath": "C:\\Users\\Khairul\\.nuget\\packages\\",
-        "outputPath": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast\\obj\\",
+        "outputPath": "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj": {
-                "projectPath": "E:\\PRACTICE\\DOT NET\\weatherforecast\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj"
+              "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj": {
+                "projectPath": "E:\\PRACTICE\\DOT NET\\DockerFileConfigurationForMultyLayerDotNetApp\\weatherforecast.Infar.Common\\weatherforecast.Infar.Common.csproj"
               }
             }
           }
